@@ -44,4 +44,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0179-largest-number](https://github.com/kanchansain321/LeetCode-Program/tree/main/0179-largest-number/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/kanchansain321/LeetCode-Program/tree/main/0050-powx-n/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/kanchansain321/LeetCode-Program/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
