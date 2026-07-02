@@ -1,25 +1,30 @@
 class Solution {
     public double myPow(double x, int n) {
-        long power = n;
+        if (n == 0) return 1.0;
+        if (x == 0) return 0.0;
+        if (x == 1) return 1.0;
 
-        if (power < 0) {
+        if (x == -1 && n % 2 == 0) return 1.0;
+        if (x == -1 && n % 2 != 0) return -1.0;
+
+        long binForm = n;
+
+        if (binForm < 0) {
             x = 1 / x;
-            power = -power;
+            binForm = -binForm;
         }
 
-        return solve(x, power);
-    }
+        double ans = 1.0;
 
-    public double solve(double x, long n) {
-        if (n == 0) return 1;
+        while (binForm > 0) {
+            if (binForm % 2 == 1) {
+                ans *= x;
+            }
 
-        double half = solve(x, n / 2);
-
-        if (n % 2 == 0) {
-            return half * half;
-        } else {
-            return x * half * half;
+            x *= x;
+            binForm /= 2;
         }
-        
+
+        return ans;
     }
 }
