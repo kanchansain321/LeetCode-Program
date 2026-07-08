@@ -41,6 +41,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kanchansain321/LeetCode-Program/tree/main/0020-valid-parentheses/) | Easy |
 | [0179-largest-number](https://github.com/kanchansain321/LeetCode-Program/tree/main/0179-largest-number/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -67,4 +68,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/kanchansain321/LeetCode-Program/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
