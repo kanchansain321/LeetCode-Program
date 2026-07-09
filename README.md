@@ -28,10 +28,12 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/kanchansain321/LeetCode-Program/tree/main/0169-majority-element/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
 | [0169-majority-element](https://github.com/kanchansain321/LeetCode-Program/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/kanchansain321/LeetCode-Program/tree/main/0179-largest-number/) | Medium |
 ## Counting
@@ -64,12 +66,18 @@
 | ------- | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kanchansain321/LeetCode-Program/tree/main/0020-valid-parentheses/) | Easy |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
 <!---LeetCode Topics End-->
