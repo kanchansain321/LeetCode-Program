@@ -52,6 +52,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/kanchansain321/LeetCode-Program/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/kanchansain321/LeetCode-Program/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
