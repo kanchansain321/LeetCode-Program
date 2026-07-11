@@ -68,11 +68,13 @@
 | [0092-reverse-linked-list-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
