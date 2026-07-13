@@ -52,11 +52,13 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kanchansain321/LeetCode-Program/tree/main/0002-add-two-numbers/) | Medium |
 | [0009-palindrome-number](https://github.com/kanchansain321/LeetCode-Program/tree/main/0009-palindrome-number/) | Easy |
 | [0050-powx-n](https://github.com/kanchansain321/LeetCode-Program/tree/main/0050-powx-n/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kanchansain321/LeetCode-Program/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kanchansain321/LeetCode-Program/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/kanchansain321/LeetCode-Program/tree/main/0050-powx-n/) | Medium |
 ## Dynamic Programming
@@ -66,6 +68,7 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/kanchansain321/LeetCode-Program/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kanchansain321/LeetCode-Program/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0092-reverse-linked-list-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
