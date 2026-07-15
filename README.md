@@ -61,6 +61,7 @@
 | [0002-add-two-numbers](https://github.com/kanchansain321/LeetCode-Program/tree/main/0002-add-two-numbers/) | Medium |
 | [0021-merge-two-sorted-lists](https://github.com/kanchansain321/LeetCode-Program/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0050-powx-n](https://github.com/kanchansain321/LeetCode-Program/tree/main/0050-powx-n/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/kanchansain321/LeetCode-Program/tree/main/0203-remove-linked-list-elements/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +74,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/kanchansain321/LeetCode-Program/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
+| [0203-remove-linked-list-elements](https://github.com/kanchansain321/LeetCode-Program/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
