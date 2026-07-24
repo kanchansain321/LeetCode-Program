@@ -86,8 +86,21 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kanchansain321/LeetCode-Program/tree/main/0020-valid-parentheses/) | Easy |
+| [0901-online-stock-span](https://github.com/kanchansain321/LeetCode-Program/tree/main/0901-online-stock-span/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0148-sort-list](https://github.com/kanchansain321/LeetCode-Program/tree/main/0148-sort-list/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/kanchansain321/LeetCode-Program/tree/main/0901-online-stock-span/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/kanchansain321/LeetCode-Program/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/kanchansain321/LeetCode-Program/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
