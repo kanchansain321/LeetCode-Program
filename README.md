@@ -86,6 +86,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/kanchansain321/LeetCode-Program/tree/main/0020-valid-parentheses/) | Easy |
+| [0155-min-stack](https://github.com/kanchansain321/LeetCode-Program/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/kanchansain321/LeetCode-Program/tree/main/0901-online-stock-span/) | Medium |
 ## Merge Sort
 | Problem Name | Difficulty |
@@ -94,6 +95,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/kanchansain321/LeetCode-Program/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/kanchansain321/LeetCode-Program/tree/main/0901-online-stock-span/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
