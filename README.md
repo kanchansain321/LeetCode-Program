@@ -20,6 +20,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/kanchansain321/LeetCode-Program/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0169-majority-element](https://github.com/kanchansain321/LeetCode-Program/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/kanchansain321/LeetCode-Program/tree/main/0179-largest-number/) | Medium |
+| [3285-find-indices-of-stable-mountains](https://github.com/kanchansain321/LeetCode-Program/tree/main/3285-find-indices-of-stable-mountains/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
